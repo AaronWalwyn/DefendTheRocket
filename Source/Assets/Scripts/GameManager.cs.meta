@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 72976cb5fd1684059a4d28347c5b34a1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - waveOptionsUI: {fileID: 2800000, guid: cebeed5b93cbf457bb2b791e78f2549d, type: 3}
+  - solarSystemUI: {instanceID: 0}
+  - researchUI: {instanceID: 0}
+  - recruitStaffUI: {instanceID: 0}
+  - upgradeShipUI: {instanceID: 0}
+  - chooseWeaponUI: {instanceID: 0}
+  - engineerTexture: {instanceID: 0}
+  - scientistTexture: {instanceID: 0}
+  - mercenaryTexture: {instanceID: 0}
+  - weaponTexture: {instanceID: 0}
+  - researchProgress: {instanceID: 0}
+  - waveOptionsSkin: {fileID: 11400000, guid: 3a511909e9d314bc994479ac7b35c2f3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
