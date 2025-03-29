@@ -1,0 +1,6 @@
+lastUpgrade=00921
+ios.ClientId=232701583421-knq5t70anmgqtcaje9i5f5peksj52ac0.apps.googleusercontent.com
+ios.BundleId=com.AaronWalwyn.DefendtheRocket
+ios.SetupDone=true
+proj.AppId=232701583421
+android.SetupDone=true
