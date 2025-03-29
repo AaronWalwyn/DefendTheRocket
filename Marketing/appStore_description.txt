@@ -1,0 +1,19 @@
+You are the captain upon the HMS Soverign, a scout ships tasked with exploring distant solar system and establishing contact with alien races. Completely by accident your ships fell through a wormhole and you have ended up in a aggressive star system.
+
+Trapped in a hostile system you must defend your rocket and crew against hoards of aliens. Hire mercenaries, engineers and scientists to help you fight, repair and even upgrade your rocket.
+
+Features: 
+- 6 Unique planets
+- 30 Enemy types
+- 21 Blueprints
+- 11 Weapons
+- 10 Ship upgrades
+
+Planned Features:
+- More planets
+- More weapons
+- More enemies
+- Lasers
+- Missiles 
+- Leaderboards
+- Achievements

@@ -1,0 +1,6 @@
+Defend The Rocket is an Action Defence game where you, the captain, must defend your spaceship from endless waves of hostile aliens through out an entire solar system. Purchase new weapons, recruit new crew and even fly to other planets all to improve your chance of surviving to fight another day.
+
+Programming: Aaron Walwyn 
+Art: Milos Galdon
+
+Created using: Unity3D, Audacity, Freesound.org, Adobe Illustrator, Adobe Photoshop, XCode and Pauls infinite knowledge of fonts
