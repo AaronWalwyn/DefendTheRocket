@@ -1,0 +1,71 @@
+Weapons
+===================
+
+Blaster 3000X - Pistol
+The choice weapon of the Royal Space Fleet. It won't be much use in a war but it'll get you out of a jam.
+
+
+Carmack Rifle - Bolt Action Rifle
+The Carmack Rifle makes use of good ol' fashioned gun powder, it'll get the job done one way or another.
+
+
+M24 Assault Rifle - Automatic Rifle
+The M24 Assault Rifle makes killing aliens fun and easy. Simply hold down the trigger and watch them die.
+
+
+Tesla Rifle - Bolt Action Rifle
+This weapon deals damage like nothing you've ever seen, unfortunatly it takes a while to actually shoot.
+
+
+Skull Crusher - Automatic Rifle
+Created from what looks like smashing two guns together; the 'Skull Crusher' still manages to deliver deadly damage.
+
+
+Scar - Bolt Action Rifle
+The Scar Rifle is aptly named as it looks like it's survived several wars, but apparently it packs a punch.
+
+
+Eden - Automatic Rifle
+'Powerful beyond measure...' is engraved on the side of this weapon, as you look at it it gives off a faint glow.
+
+
+DSX0-01 - Pistol
+The DSX0-01 was a prototype weapon stolen from Rhea military, you don't know what it does but it looks badass.
+
+
+Avenger - Automatic Rifle
+Choice weapon of the Reflex gang, the Avenger is known for it fast fire rate and high damage.
+
+
+Proton Rifle - Bolt Action Rifle
+At the forefront of weapon tech, the Proton Rifle allows you to kill enemies in one, however not very quickly.
+
+
+Dominator - Automatic Rifle
+This fusion gun harness plasma energy to destroy your enemies, removing them from the battlefield.
+
+
+
+Ship Upgrades
+===================
+
+
+
+Field Booster I, II, III
+Increases forcefield strenght
+
+
+Crew Quaters I, II, III
+Increases maximum number of crew
+
+
+Ship Weapons I, II
+Adds an additional gun to the ship increasing rate of mercenary fire.
+
+
+Laboratory
+Increases the rate of research.
+
+
+Refinery
+Increases rate of fuel collection.

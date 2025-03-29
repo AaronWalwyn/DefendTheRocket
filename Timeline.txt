@@ -1,0 +1,82 @@
+﻿Timeline for Release: 6th April 2015
+
+=====================================
+
+
+
+Week 1 (Ending 8th March)
+
+[X] - Patiess Enemies Complete
+
+[X] - Maia Background Complete
+
+[X] - Maia Enemies Started
+
+[X] - UI Port Complete
+
+[ ] - Dune Audio Complete
+
+[X] - Mother Ducking Leaderboards
+
+
+Week 2 (Ending 15th March)
+
+[ ] - Maia Enemies Complete
+
+[X] - Tutorial UI Redux
+[X] - Game Over UI Redux
+[x] - Main Menu UI Redux
+
+[ ] - Kellia Audio Complete
+
+[ ] - Patiess Audio Complete
+
+[ ] - Upgrade Backgrounds for new size
+
+Week 3 (Ending 22nd March)
+[X] - Rhea planet portrait
+[X] - Rhea Enemies Started
+
+[ ] - Weapon Stats Completed (inc. cost)
+
+[ ] - Planet Stats Complete
+
+[ ] - Ship Upgrade Stats (inc. cost)
+
+[ ] - ‘????’ on Wave Options screen
+
+[ ] - Achievements
+
+
+Week 4 (Ending 29th March)
+
+[X] - Rhea Enemies Complete
+
+[ ] - UI Weapon Art
+
+[ ] - UI Ship Upgrade Art
+
+[ ] - Maia Audio Complete
+
+[ ] - Rhea Audio Complete
+
+[ ] - Submit Build 1.0.0
+
+
+
+Week 5 (Ending 6th April)
+
+[ ] - Amazon AppStore
+[ ] - Testing
+
+[ ] - Bugfixes
+
+[ ] - Store Pages
+
+[ ] - Trailer
+
+[ ] - Screenshots
+
+[ ] - Submit Build 1.1.0
+
+[ ] - Release!!!

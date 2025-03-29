@@ -1,0 +1,10 @@
+﻿—— Version 1.0.2 ——
+* Crash when researching ‘Carmack Rifle’ [Fixed]
+* Blueprint bar max limit not set correctly [Fixed]
+* Fuel number not showing on wave options [Fixed]
+* Chosen weapon not carrying over between levels [Fixed]
+* Loading ship upgrades page does not update all buttons. [Fixed]
+* Field Booster I showing by default when it should be hidden [Fixed]
+* on android can`t exit app by pressing back button
+* android research bar enormous expansion after clicking [Fixed, see issue #2]
+* Issue causing crash on Continue Game [Fixed, weapon not set properly]
